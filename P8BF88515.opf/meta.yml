@@ -1,0 +1,13 @@
+id: P8BF88515
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 6,00: Uttaragrantha 2'
+  language: bo
+  volumes:
+    7fcf762c58414f32bbc34550e6136b24:
+      title: Uttaragrantha 2
+      base_file: Uttaragrantha 2.txt
+      work_id: W2A4C4490
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:52:40.547157'
+last_modified_at: '2022-03-01T22:52:40.547163'
